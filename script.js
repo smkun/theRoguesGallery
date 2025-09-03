@@ -4,7 +4,7 @@ const characters = [
         name: "Charnak of the Burnt Spear",
         title: "The Iron-Sworn",
         image: "IMAGES/Charnak.png",
-        preview: "An orc paladin who survived tragedy and made a pact with General Malvarion for discipline and order...",
+        preview: "An orc Warlock who survived tragedy and made a pact with General Malvarion for discipline and order...",
         page: "CHARACTERS/Charnak.htm"
     },
     {
